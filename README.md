@@ -1,0 +1,13 @@
+# PENDETEKSI-COVID-19-DENGAN-MENGGUNAKAN-METODE-CNN-
+Kelompok 2 RB
+Anggota :
+1. Puti Windrahmatullah 120450070
+2. Alan Barokah 120450103
+3. Barrera Putra…. 120450078
+Deskripsi :
+Penelitian ini memilih Convolutional Neural Network (CNN) sebagai metode yang sesuai untuk tugas klasifikasi citra medis ini. 
+CNN dipilih karena kemampuannya dalam mengekstraksi fitur-fitur penting dari citra secara otomatis, sehingga sangat cocok untuk mengklasifikasikan citra medis.
+Tujuan utama dari penelitian ini adalah menguji kinerja CNN dalam mengklasifikasikan citra medis pasien dengan riwayat penyakit (COVID-19) dan citra medis pasien normal. 
+Data yang digunakan untuk penelitian ini adalah dataset COVID-19 Xray.
+Dengan pendekatan ini, penelitian ini bertujuan untuk mengembangkan model yang dapat membantu dalam deteksi COVID-19 melalui analisis citra rontgen dengan memanfaatkan teknologi CNN
+
