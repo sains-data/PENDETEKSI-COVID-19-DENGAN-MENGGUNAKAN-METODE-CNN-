@@ -5,6 +5,10 @@ Anggota :
 2. Alan Barokah 120450103
 3. Barrera Putra…. 120450078
 
+Aplikasi Terdeploy, silahkan buka link dibawah: 
+```
+https://covid-detection00.streamlit.app/
+```
 
 Deskripsi :
 Penelitian ini memilih Convolutional Neural Network (CNN) sebagai metode yang sesuai untuk tugas klasifikasi citra medis ini. 
