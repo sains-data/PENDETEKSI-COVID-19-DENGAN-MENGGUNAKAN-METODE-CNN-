@@ -17,8 +17,4 @@ Tujuan utama dari penelitian ini adalah menguji kinerja CNN dalam mengklasifikas
 Data yang digunakan untuk penelitian ini adalah dataset COVID-19 Xray.
 Dengan pendekatan ini, penelitian ini bertujuan untuk mengembangkan model yang dapat membantu dalam deteksi COVID-19 melalui analisis citra rontgen dengan memanfaatkan teknologi CNN
 
-Deskripsi Penggunaan Requirements:
-1. Streamlit adalah framework Python yang digunakan untuk membuat antarmuka web dengan mudah dan cepat untuk aplikasi data.
-2. TensorFlow adalah perpustakaan machine learning yang kuat,
-3. numpy adalah pustaka untuk komputasi numerik
-5. Matplotlib digunakan untuk membuat visualisasi grafis, dan Pillow adalah pustaka untuk manipulasi gambar.
+
