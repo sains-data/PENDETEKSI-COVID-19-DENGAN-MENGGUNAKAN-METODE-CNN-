@@ -21,4 +21,4 @@ Deskripsi Penggunaan Requirements:
 1. Streamlit adalah framework Python yang digunakan untuk membuat antarmuka web dengan mudah dan cepat untuk aplikasi data.
 2. TensorFlow adalah perpustakaan machine learning yang kuat,
 3. numpy adalah pustaka untuk komputasi numerik
-4. Matplotlib digunakan untuk membuat visualisasi grafis, dan Pillow adalah pustaka untuk manipulasi gambar.
+5. Matplotlib digunakan untuk membuat visualisasi grafis, dan Pillow adalah pustaka untuk manipulasi gambar.
